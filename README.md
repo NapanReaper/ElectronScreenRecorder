@@ -1,2 +1,3 @@
-# ElectronScreenRecorder
-Using Electron-forge to build a screen recorder
+### `npm install` 
+
+To install all the package
